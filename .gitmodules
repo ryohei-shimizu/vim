@@ -1,0 +1,30 @@
+[submodule "pack/main/opt/vim-airline"]
+	path = pack/main/opt/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/main/opt/vim-airline-themes"]
+	path = pack/main/opt/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "pack/main/opt/vim-surround"]
+	path = pack/main/opt/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "pack/main/opt/vim-fugitive"]
+	path = pack/main/opt/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/main/opt/vim-gitgutter"]
+	path = pack/main/opt/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/main/opt/vim-lsp"]
+	path = pack/main/opt/vim-lsp
+	url = https://github.com/prabirshrestha/vim-lsp
+[submodule "pack/main/opt/async.vim"]
+	path = pack/main/opt/async.vim
+	url = https://github.com/prabirshrestha/async.vim
+[submodule "pack/main/opt/nerdcommenter"]
+	path = pack/main/opt/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "pack/main/opt/nerdtree"]
+	path = pack/main/opt/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "pack/main/opt/nerdtree-git-plugin"]
+	path = pack/main/opt/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
