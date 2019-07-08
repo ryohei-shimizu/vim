@@ -28,3 +28,6 @@
 [submodule "pack/main/opt/nerdtree-git-plugin"]
 	path = pack/main/opt/nerdtree-git-plugin
 	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "pack/main/start/twilight"]
+	path = pack/main/start/twilight
+	url = https://github.com/vim-scripts/twilight.git
