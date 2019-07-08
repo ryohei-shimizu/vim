@@ -1,8 +1,8 @@
 [submodule "pack/main/opt/vim-airline"]
-	path = pack/main/opt/vim-airline
+	path = pack/main/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline
 [submodule "pack/main/opt/vim-airline-themes"]
-	path = pack/main/opt/vim-airline-themes
+	path = pack/main/start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes
 [submodule "pack/main/opt/vim-surround"]
 	path = pack/main/opt/vim-surround
