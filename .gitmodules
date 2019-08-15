@@ -31,3 +31,6 @@
 [submodule "pack/main/start/twilight"]
 	path = pack/main/start/twilight
 	url = https://github.com/vim-scripts/twilight.git
+[submodule "pack/main/start/jellybeans.vim"]
+	path = pack/main/start/jellybeans.vim
+	url = https://github.com/nanotech/jellybeans.vim.git
