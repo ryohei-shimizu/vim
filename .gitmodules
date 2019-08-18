@@ -22,9 +22,6 @@
 [submodule "pack/main/opt/nerdcommenter"]
 	path = pack/main/opt/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter
-[submodule "pack/main/opt/nerdtree"]
-	path = pack/main/opt/nerdtree
-	url = https://github.com/scrooloose/nerdtree
 [submodule "pack/main/opt/nerdtree-git-plugin"]
 	path = pack/main/opt/nerdtree-git-plugin
 	url = https://github.com/Xuyuanp/nerdtree-git-plugin
