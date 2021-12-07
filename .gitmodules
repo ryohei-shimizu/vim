@@ -31,3 +31,6 @@
 [submodule "pack/main/start/twilight256.vim"]
 	path = pack/main/start/twilight256.vim
 	url = https://github.com/vim-scripts/twilight256.vim.git
+[submodule "pack/main/opt/vim-markdown"]
+	path = pack/main/opt/vim-markdown
+	url = https://github.com/plasticboy/vim-markdown.git
